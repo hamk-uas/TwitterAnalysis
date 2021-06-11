@@ -1,5 +1,5 @@
 # TwitterAnalysis
-Analysis done for Future Internet article
+The repository contains collection of tweets IDs connected with the research article for disinformation in social media. Data collection has data from the 
 
 # Parts
 Contains two Jupyter notebooks:
