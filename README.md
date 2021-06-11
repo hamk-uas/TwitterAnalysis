@@ -1,10 +1,15 @@
 # TwitterAnalysis
-The repository contains collection of tweets IDs connected with the research article for disinformation in social media. Data collection has data from the time frame of 2020-06-23 till 2021-03-23. 
+GitHub repository for the Future Internet article: Text Analysis Methods for Misinformation Related Research on Finnish Language Twitter. Special Issue on Digital and Social Media in the Disinformation Age.
 
-# Parts
+# Data
+
+Data folder contains tweet id's corresponding to misinformation tweets collected from June 23, 2020 to March 23, 2021. Owing to Twitter's policy we are restricted to sharing tweet-id's and users can rehydrate this dataset using hydrator: https://github.com/DocNow/hydrator.
+
+# Analysis
 Contains two Jupyter notebooks:
 1. data processing, visualization and modeling
 2. keyword and hashtag network modeling
+Included are also network hashtags file and the visualized Gephi project.
 
-
-There is examples from network tags file and the visualized Gephi project.
+# Citation
+If you find this code useful please cite: Jussila, J.; Suominen, A.H.; Partanen, A.; Honkanen, T. Text Analysis Methods for Misinformation Related Research on Finnish Language Twitter. Future Internet 2021, 13, x. https://doi.org/10.3390/xxxxx.
