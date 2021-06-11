@@ -8,8 +8,8 @@ Data folder contains tweet id's corresponding to misinformation tweets collected
 # Processing and Analysis
 
 All tweets data processing and analysis is done in jupyter notebooks as following:
-1. data processing, visualization and modeling [data processing and analysis](https://github.com/hamk-uas/TwitterAnalysis/blob/main/Twitter%20data%20processing%2C%20visualization%20and%20modeling.ipynb)
-2. keyword and hashtag network modeling Twitter [Keyword and hashtag network](https://github.com/hamk-uas/TwitterAnalysis/blob/main/Keyword%26hashtag%20network.ipynb)
+1. tweets data processing, visualization and modeling [data processing and analysis](https://github.com/hamk-uas/TwitterAnalysis/blob/main/Twitter%20data%20processing%2C%20visualization%20and%20modeling.ipynb)
+2. tweets keyword and hashtag network modeling [Keyword and hashtag network](https://github.com/hamk-uas/TwitterAnalysis/blob/main/Keyword%26hashtag%20network.ipynb)
 
 
 # Results
