@@ -7,14 +7,14 @@ Data folder contains tweet id's corresponding to misinformation tweets collected
 
 # Processing and Analysis
 
-All tweet data processing and analysis is done in jupyter notebooks and the code folder contains two Jupyter notebooks:
+All tweets data processing and analysis is done in jupyter notebooks as following:
 1. data processing, visualization and modeling [data processing and analysis](https://github.com/hamk-uas/TwitterAnalysis/blob/main/Twitter%20data%20processing%2C%20visualization%20and%20modeling.ipynb)
 2. keyword and hashtag network modeling Twitter [Keyword and hashtag network](https://github.com/hamk-uas/TwitterAnalysis/blob/main/Keyword%26hashtag%20network.ipynb)
 
 
 # Results
 
-[Results](https://github.com/hamk-uas/TwitterAnalysis/tree/main/results)
+Resuls of network analysis is presented in the folder [Results](https://github.com/hamk-uas/TwitterAnalysis/tree/main/results) and contains files relaited to outcome from tweet keywords and tags. Folder has Gephi network shown as .pdf and also has project file for Gephi.
 
 
 Hashtag networks file and the visualized Gephi project also included in the folder.
