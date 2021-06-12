@@ -1,5 +1,5 @@
 # TwitterAnalysis
-GitHub repository for the Future Internet article: Text Analysis Methods for Misinformation Related Research on Finnish Language Twitter. Special Issue on Digital and Social Media in the Disinformation Age.
+GitHub repository for the Future Internet article: Text Analysis Methods for Misinformation Related Research on Finnish Language Twitter. Special Issue on Digital and Social Media in the Disinformation Age (https://www.mdpi.com/journal/futureinternet/special_issues/DSM_DA).
 
 # Data
 
@@ -14,10 +14,8 @@ All tweets data processing and analysis is done in jupyter notebooks as followin
 
 # Results
 
-Resuls of network analysis is presented in the folder [Results](https://github.com/hamk-uas/TwitterAnalysis/tree/main/results) and contains files relaited to outcome from tweet keywords and tags. Folder has Gephi network shown as .pdf and also has project file for Gephi.
+Resuls of network analysis is presented in the folder [Results](https://github.com/hamk-uas/TwitterAnalysis/tree/main/results) and contains files related to outcome from tweet keywords and hashtags. Folder includes Gephi network shown as .pdf and also project file for Gephi.
 
-
-Hashtag networks file and the visualized Gephi project also included in the folder.
 
 # Citation
 If you find this code useful please cite: Jussila, J.; Suominen, A.H.; Partanen, A.; Honkanen, T. Text Analysis Methods for Misinformation Related Research on Finnish Language Twitter. Future Internet 2021, 13, x. https://doi.org/10.3390/xxxxx.
