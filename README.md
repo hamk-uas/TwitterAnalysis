@@ -18,4 +18,4 @@ Resuls of network analysis is presented in the folder [Results](https://github.c
 
 
 # Citation
-If you find this code useful please cite: Jussila, J.; Suominen, A.H.; Partanen, A.; Honkanen, T. Text Analysis Methods for Misinformation Related Research on Finnish Language Twitter. Future Internet 2021, 13, x. https://doi.org/10.3390/xxxxx.
+If you find this code useful please cite: Jussila, J.; Suominen, A.H.; Partanen, A.; Honkanen, T. Text Analysis Methods for Misinformation Related Research on Finnish Language Twitter. Future Internet 2021, 13, 157. https://doi.org/10.3390/fi13060157.
